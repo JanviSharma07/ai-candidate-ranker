@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Backend Engineer - Fintech Startup",
+    "text": "We are looking for a Senior Backend Engineer (5+ years) to join our fintech platform team. Must have strong experience with Python, PostgreSQL, and REST API design. You will design scalable microservices handling financial transactions. Experience with AWS and Docker is required. Nice to have: Kubernetes, Kafka, Terraform. The ideal candidate has shipped production systems at scale and can own a service end-to-end."
+  },
+  {
+    "title": "Frontend Engineer - Early Stage Product",
+    "text": "Junior Frontend Engineer needed for a fast-moving early stage startup. 1+ years of experience with React and TypeScript required. You'll build our core product UI from scratch. Nice to have: Next.js, GraphQL, basic Node.js. We value people who move fast, ship often, and aren't afraid of ambiguity."
+  },
+  {
+    "title": "Data Scientist - ML Platform Team",
+    "text": "Mid-level Data Scientist with 3+ years experience in machine learning and Python. Must be comfortable with pandas, numpy, and building production ML pipelines. Experience with deep learning frameworks like PyTorch or TensorFlow preferred. Nice to have: NLP experience, Spark for large-scale data processing. You'll work closely with engineering to deploy models into production."
+  }
+]

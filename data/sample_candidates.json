@@ -1,0 +1,178 @@
+[
+  {
+    "id": "cand_001",
+    "name": "Aditya Rao",
+    "skills": ["python", "postgresql", "aws", "docker", "rest api", "microservices", "kubernetes"],
+    "experience_years": 6,
+    "summary": "Senior backend engineer with 6 years building scalable microservices for fintech and payments platforms. Designed REST APIs handling high transaction volumes, deployed on AWS using Docker and Kubernetes.",
+    "education": "B.Tech Computer Science",
+    "last_active_days_ago": 5,
+    "projects_count": 8,
+    "endorsements": 40
+  },
+  {
+    "id": "cand_002",
+    "name": "Sneha Iyer",
+    "skills": ["python", "mysql", "google cloud", "containers"],
+    "experience_years": 5,
+    "summary": "Built distributed backend systems in Python for a payments company, designed scalable APIs, deployed containerized services on Google Cloud, focused on reliability and uptime for transaction-heavy workloads.",
+    "education": "M.S. Software Engineering",
+    "last_active_days_ago": 20,
+    "projects_count": 5,
+    "endorsements": 25
+  },
+  {
+    "id": "cand_003",
+    "name": "Rohan Mehta",
+    "skills": ["react", "typescript", "javascript", "css"],
+    "experience_years": 1.5,
+    "summary": "Frontend developer who recently shipped a React and TypeScript product UI for a small startup. Comfortable working in fast-paced environments with ambiguous specs.",
+    "education": "B.Tech Information Technology",
+    "last_active_days_ago": 3,
+    "projects_count": 4,
+    "endorsements": 10
+  },
+  {
+    "id": "cand_004",
+    "name": "Priya Nair",
+    "skills": ["python", "pandas", "numpy", "pytorch", "machine learning"],
+    "experience_years": 3.5,
+    "summary": "Data scientist with 3.5 years building production ML pipelines using PyTorch and pandas. Deployed models into production in collaboration with engineering teams.",
+    "education": "M.Tech Data Science",
+    "last_active_days_ago": 10,
+    "projects_count": 6,
+    "endorsements": 30
+  },
+  {
+    "id": "cand_005",
+    "name": "Karthik Subramaniam",
+    "skills": ["java", "spring boot", "mysql"],
+    "experience_years": 4,
+    "summary": "Backend developer experienced in Java and Spring Boot, working on enterprise applications with MySQL databases.",
+    "education": "B.E. Computer Science",
+    "last_active_days_ago": 60,
+    "projects_count": 3,
+    "endorsements": 15
+  },
+  {
+    "id": "cand_006",
+    "name": "Anjali Verma",
+    "skills": [],
+    "experience_years": 2,
+    "summary": "Software developer.",
+    "education": "",
+    "last_active_days_ago": 200,
+    "projects_count": 0,
+    "endorsements": 0
+  },
+  {
+    "id": "cand_007",
+    "name": "Vikram Shah",
+    "skills": ["python", "django", "aws"],
+    "experience_years": 2,
+    "summary": "Hardworking and passionate software engineer eager to contribute to innovative projects and grow professionally.",
+    "education": "B.Tech",
+    "last_active_days_ago": 15,
+    "projects_count": 2,
+    "endorsements": 5
+  },
+  {
+    "id": "cand_008",
+    "name": "Aman Gupta",
+    "skills": ["javascript", "react"],
+    "experience_years": 1,
+    "summary": "Hardworking and passionate software engineer eager to contribute to innovative projects and grow professionally.",
+    "education": "B.Tech",
+    "last_active_days_ago": 18,
+    "projects_count": 1,
+    "endorsements": 2
+  },
+  {
+    "id": "cand_009",
+    "name": "Meera Pillai",
+    "skills": ["python", "java", "javascript", "typescript", "react", "node.js", "sql", "postgresql", "mongodb", "aws", "azure", "gcp", "docker", "kubernetes", "machine learning", "deep learning", "nlp", "tensorflow"],
+    "experience_years": 0.5,
+    "summary": "Recent graduate skilled across the full modern tech stack.",
+    "education": "B.Tech",
+    "last_active_days_ago": 2,
+    "projects_count": 1,
+    "endorsements": 1
+  },
+  {
+    "id": "cand_010",
+    "name": "Ishaan Kapoor",
+    "skills": ["python", "postgresql", "aws", "docker", "microservices"],
+    "experience_years": 7,
+    "summary": "Senior backend engineer with 7 years of experience designing scalable microservices and APIs in fintech and e-commerce domains.",
+    "education": "B.Tech Computer Science",
+    "last_active_days_ago": 400,
+    "projects_count": 10,
+    "endorsements": 50
+  },
+  {
+    "id": "cand_011",
+    "name": "Divya Krishnan",
+    "skills": ["react", "typescript", "next.js", "graphql", "node.js"],
+    "experience_years": 4,
+    "summary": "Frontend engineer with 4 years building product UIs in React, TypeScript, and Next.js, with GraphQL API integration experience.",
+    "education": "B.Tech",
+    "last_active_days_ago": 7,
+    "projects_count": 7,
+    "endorsements": 22
+  },
+  {
+    "id": "cand_012",
+    "name": "Farhan Ali",
+    "skills": ["python", "pandas", "numpy", "nlp", "machine learning"],
+    "experience_years": 3,
+    "summary": "Data scientist focused on NLP applications, building text classification and entity extraction pipelines using Python and pandas.",
+    "education": "M.Sc Data Science",
+    "last_active_days_ago": 12,
+    "projects_count": 5,
+    "endorsements": 18
+  },
+  {
+    "id": "cand_013",
+    "name": "Neha Joshi",
+    "skills": ["python", "docker", "kafka", "terraform"],
+    "experience_years": 2,
+    "summary": "Backend engineer experienced with event-driven systems using Kafka and infrastructure-as-code with Terraform, working in Python-based microservice environments.",
+    "education": "B.Tech",
+    "last_active_days_ago": 9,
+    "projects_count": 4,
+    "endorsements": 12
+  },
+  {
+    "id": "cand_014",
+    "name": "Saanvi Reddy",
+    "skills": ["excel", "powerpoint", "communication"],
+    "experience_years": 5,
+    "summary": "Business analyst with 5 years of experience in stakeholder communication and reporting using Excel and PowerPoint.",
+    "education": "MBA",
+    "last_active_days_ago": 30,
+    "projects_count": 2,
+    "endorsements": 8
+  },
+  {
+    "id": "cand_015",
+    "name": "Tanvi Shetty",
+    "skills": ["python", "spark", "pandas", "machine learning"],
+    "experience_years": 4,
+    "summary": "Data scientist specializing in large-scale data processing with Spark, building and deploying machine learning pipelines in Python for production systems.",
+    "education": "M.Tech",
+    "last_active_days_ago": 4,
+    "projects_count": 6,
+    "endorsements": 28
+  },
+  {
+    "id": "cand_016",
+    "name": "Arjun Desai",
+    "skills": ["python", "sql", "docker"],
+    "experience_years": 0.8,
+    "summary": "Recently completed a backend engineering bootcamp covering Python, SQL, and Docker. Built a few personal projects deploying REST APIs.",
+    "education": "Bootcamp Certificate",
+    "last_active_days_ago": 1,
+    "projects_count": 3,
+    "endorsements": 3
+  }
+]
