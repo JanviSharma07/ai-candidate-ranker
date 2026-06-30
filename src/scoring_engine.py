@@ -131,8 +131,8 @@ def score_candidates(jd_requirements: Dict, jd_text: str, candidates: List[Dict]
         behav_score = behavioral_score(candidate)
 
         combined = (
-            0.40 * max(sem_score, 0.0)
-            + 0.35 * hard_score
+            0.45 * max(sem_score, 0.0)
+            + 0.30 * hard_score
             + 0.15 * meta_score
             + 0.10 * behav_score
         )

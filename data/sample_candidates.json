@@ -174,5 +174,17 @@
     "last_active_days_ago": 1,
     "projects_count": 3,
     "endorsements": 3
+  },
+,
+  {
+    "id": "cand_017",
+    "name": "Riya Mehta",
+    "skills": ["python", "machine learning", "pandas", "numpy", "sql", "tensorflow"],
+    "experience_years": 2,
+    "summary": "Data science graduate with hands-on experience building ML pipelines in Python, data analysis using pandas and numpy, and deploying classification models using TensorFlow.",
+    "education": "B.Tech Computer Science - Data Science",
+    "last_active_days_ago": 2,
+    "projects_count": 5,
+    "endorsements": 12
   }
 ]
